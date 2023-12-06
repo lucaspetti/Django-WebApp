@@ -41,7 +41,7 @@ This project was done by me as a assignment for an internship.
     <li>Pillow</li>
 </ul>
 
-<h3>python -m pip install Django django-crispy-forms Pillow</h3>
+<p>- python -m pip install Django django-crispy-forms Pillow</p>
 
 <h2>Note :</h2>
 
